@@ -1,0 +1,6 @@
+output/Det_9.png
+True
+True
+mr04zd3547
+1
+Not

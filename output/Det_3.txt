@@ -1,0 +1,6 @@
+output/Det_3.png
+None
+True
+mp40mg7550
+0
+Not

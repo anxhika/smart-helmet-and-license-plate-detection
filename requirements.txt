@@ -1,0 +1,33 @@
+# Core ML + Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# FastAPI Backend
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+
+# HTTP & APIs
+requests>=2.31.0
+prometheus-client>=0.17.0
+
+# YOLOv5 Utilities
+tqdm>=4.65.0
+seaborn>=0.12.2
+Pillow>=9.5.0
+PyYAML>=6.0
+scipy>=1.11.0
+
+# File and path handling
+pathlib>=1.0.1
+argparse>=1.4.0
+
+# Optional: if using Jupyter or debugging interactively
+ipython>=8.12.0
+
+# License Plate Recognition Integration
+# (using external API, but requests handles this)

@@ -1,0 +1,6 @@
+output/Det_6.png
+False
+True
+mp04zh5581
+2
+Not
