@@ -1,6 +1,6 @@
 output/Det_10.png
+None
 True
-True
-mp04zd3547
-1
+None
+0
 Not

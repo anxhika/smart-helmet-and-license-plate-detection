@@ -1,6 +1,6 @@
 output/Det_1.png
+False
 None
-True
 None
-0
+1
 Not

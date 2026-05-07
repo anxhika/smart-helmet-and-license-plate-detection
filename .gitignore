@@ -1,0 +1,42 @@
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments and local env files
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+
+# Generated inference outputs and temp artifacts
+output/
+laneOutput/
+frames/
+rider.png
+temp_*
+yolo11/outputs/**
+!yolo11/outputs/images/.gitkeep
+!yolo11/outputs/videos/.gitkeep
+!yolo11/outputs/metrics/.gitkeep
+
+# Model artifacts and training runs (large/binary)
+runs/
+weights/
+yolo11/weights/**
+!yolo11/weights/.gitkeep
+
+# Local datasets/media (large/private)
+dataset/
+test_images_videos/
+
+# Logs
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

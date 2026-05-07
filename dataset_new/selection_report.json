@@ -1,0 +1,23 @@
+{
+  "train": {
+    "images": 240,
+    "class_0_Helmet": 239,
+    "class_1_No Helmet": 60,
+    "class_2_Rider": 236,
+    "class_3_LP": 161
+  },
+  "valid": {
+    "images": 70,
+    "class_0_Helmet": 62,
+    "class_1_No Helmet": 8,
+    "class_2_Rider": 64,
+    "class_3_LP": 11
+  },
+  "test": {
+    "images": 40,
+    "class_0_Helmet": 36,
+    "class_1_No Helmet": 5,
+    "class_2_Rider": 37,
+    "class_3_LP": 3
+  }
+}

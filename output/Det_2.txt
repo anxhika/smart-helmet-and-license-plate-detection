@@ -1,6 +1,6 @@
 output/Det_2.png
-False
-True
-mp40mg7554
-1
+None
+None
+None
+0
 Not

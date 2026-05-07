@@ -1,0 +1,11 @@
+path: "C:/Users/tuf gaming/Downloads/Backend-main/Backend-main/dataset_new"
+train: images/train
+val: images/valid
+test: images/test
+
+nc: 4
+names:
+  0: Helmet
+  1: No Helmet
+  2: Rider
+  3: LP
